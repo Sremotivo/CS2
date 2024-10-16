@@ -380,39 +380,39 @@
         "constants": [
             {
                 "name": "m_nSmokeEffectTickBegin",
-                "value": "0x1208"
-            },
-            {
-                "name": "m_bDidSmokeEffect",
-                "value": "0x120C"
-            },
-            {
-                "name": "m_nRandomSeed",
                 "value": "0x1210"
             },
             {
-                "name": "m_vSmokeColor",
+                "name": "m_bDidSmokeEffect",
                 "value": "0x1214"
             },
             {
-                "name": "m_vSmokeDetonationPos",
-                "value": "0x1220"
-            },
-            {
-                "name": "m_VoxelFrameData",
-                "value": "0x1230"
-            },
-            {
-                "name": "m_bSmokeVolumeDataReceived",
-                "value": "0x1248"
-            },
-            {
-                "name": "m_bSmokeEffectSpawned",
-                "value": "0x1249"
+                "name": "m_nRandomSeed",
+                "value": "0x1218"
             },
             {
                 "name": "m_vSmokeColor",
-                "value": "0xE7C"
+                "value": "0x121C"
+            },
+            {
+                "name": "m_vSmokeDetonationPos",
+                "value": "0x1228"
+            },
+            {
+                "name": "m_VoxelFrameData",
+                "value": "0x1238"
+            },
+            {
+                "name": "m_bSmokeVolumeDataReceived",
+                "value": "0x1250"
+            },
+            {
+                "name": "m_bSmokeEffectSpawned",
+                "value": "0x1251"
+            },
+            {
+                "name": "m_vSmokeColor",
+                "value": "0x121C"
             }
         ]
     }
