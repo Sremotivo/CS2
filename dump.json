@@ -227,7 +227,7 @@
             },
             {
                 "name": "m_pObserverServices",
-                "value": "0x11B8"
+                "value": "0x11C0"
             },
             {
                 "name": "m_hController",
@@ -256,23 +256,23 @@
         "constants": [
             {
                 "name": "m_AttributeManager",
-                "value": "0xFE8"
+                "value": "0x1148"
             },
             {
                 "name": "m_nFallbackPaintKit",
-                "value": "0x15F0"
-            },
-            {
-                "name": "m_nFallbackSeed",
-                "value": "0x15F4"
-            },
-            {
-                "name": "m_flFallbackWear",
                 "value": "0x15F8"
             },
             {
-                "name": "m_nFallbackStatTrak",
+                "name": "m_nFallbackSeed",
                 "value": "0x15FC"
+            },
+            {
+                "name": "m_flFallbackWear",
+                "value": "0x1600"
+            },
+            {
+                "name": "m_nFallbackStatTrak",
+                "value": "0x1604"
             },
             {
                 "name": "m_iEntityQuality",
@@ -288,7 +288,7 @@
             },
             {
                 "name": "m_AttributeManager",
-                "value": "0x1140"
+                "value": "0x1148"
             }
         ]
     },
@@ -317,7 +317,7 @@
             },
             {
                 "name": "m_bInReload",
-                "value": "0x1740"
+                "value": "0x17F8"
             },
             {
                 "name": "m_WeaponType",
@@ -342,15 +342,15 @@
         "constants": [
             {
                 "name": "m_nBombSite",
-                "value": "0xF8C"
+                "value": "0xF94"
             },
             {
                 "name": "m_bBeingDefused",
-                "value": "0xFC4"
+                "value": "0xFCC"
             },
             {
                 "name": "m_flDefuseCountDown",
-                "value": "0xFD8"
+                "value": "0xFE0"
             }
         ]
     },
