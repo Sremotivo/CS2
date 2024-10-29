@@ -231,7 +231,7 @@
             },
             {
                 "name": "m_hController",
-                "value": "0x1334"
+                "value": "0x133C"
             },
             {
                 "name": "m_hObserverTarget",
@@ -404,11 +404,11 @@
             },
             {
                 "name": "m_bSmokeVolumeDataReceived",
-                "value": "0x1250"
+                "value": "0x1258"
             },
             {
                 "name": "m_bSmokeEffectSpawned",
-                "value": "0x1251"
+                "value": "0x1259"
             },
             {
                 "name": "m_vSmokeColor",
