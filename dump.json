@@ -86,23 +86,23 @@
             },
             {
                 "name": "m_entitySpottedState",
-                "value": "0x23C0"
+                "value": "0x23D0"
             },
             {
                 "name": "m_bIsScoped",
-                "value": "0x23D8"
+                "value": "0x23E8"
             },
             {
                 "name": "m_bIsDefusing",
-                "value": "0x23DA"
+                "value": "0x23EA"
             },
             {
                 "name": "m_iShotsFired",
-                "value": "0x23EC"
+                "value": "0x23FC"
             },
             {
                 "name": "m_ArmorValue",
-                "value": "0x240C"
+                "value": "0x241C"
             },
             {
                 "name": "m_hViewModel",
@@ -150,7 +150,7 @@
             },
             {
                 "name": "m_entitySpottedState",
-                "value": "0x1B58"
+                "value": "0x23D0"
             },
             {
                 "name": "m_pWeaponServices",
