@@ -5,43 +5,43 @@
         "constants": [
             {
                 "name": "dwEntityList",
-                "value": "0x1A359C0"
+                "value": "0x1A36A00"
             },
             {
                 "name": "dwViewMatrix",
-                "value": "0x187DC90"
+                "value": "0x1AA27F0"
             },
             {
                 "name": "m_iszPlayerName",
-                "value": "0x1A87040"
+                "value": "0x660"
             },
             {
                 "name": "m_modelState",
-                "value": "0x1889F30"
+                "value": "0x170"
             },
             {
                 "name": "m_hPawn",
-                "value": "0x1AA66E0"
+                "value": "0x62C"
             },
             {
                 "name": "m_AttributeManager",
-                "value": "0x1AABA50"
+                "value": "0x1148"
             },
             {
                 "name": "m_Item",
-                "value": "0x1AA17C0"
+                "value": "0x50"
             },
             {
                 "name": "m_nBombSite",
-                "value": "0x6234FC"
+                "value": "0xF94"
             },
             {
                 "name": "m_iAccount",
-                "value": "0x6234FC"
+                "value": "0x40"
             },
             {
                 "name": "m_nSmokeEffectTickBegin",
-                "value": "0x6234F8"
+                "value": "0x1210"
             }
         ]
     
